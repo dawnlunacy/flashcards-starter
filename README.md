@@ -4,7 +4,7 @@
 
 ## Game in action:
 
-![flash cards gif] (https://github.com/dawnlunacy/flashcards-starter/blob/master/giphy%202%20flashcard-project.gif)
+![flash cards gif](https://github.com/dawnlunacy/flashcards-starter/blob/master/giphy%202%20flashcard-project.gif)
 
 ## How to Play:
  
